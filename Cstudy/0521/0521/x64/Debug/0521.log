@@ -1,0 +1,13 @@
+﻿  0521_2cpp.cpp
+C:\Users\SGA\Desktop\pcw\0521\0521\0521_2cpp.cpp(31,12): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\list(1674,17): error C2064: 항은 1개의 인수를 받아들이는 함수로 계산되지 않습니다.
+  (소스 파일 '0521_2cpp.cpp'을(를) 컴파일하는 중)
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\list(1674,17):
+  템플릿 인스턴스화 컨텍스트(가장 오래된 인스턴스화 컨텍스트)가
+  	C:\Users\SGA\Desktop\pcw\0521\0521\0521_2cpp.cpp(49,9):
+  	컴파일되는 함수 템플릿 인스턴스화 'auto std::list<int,std::allocator<int>>::remove_if<bool>(_Pr1)'에 대한 참조를 확인하세요.
+          with
+          [
+              _Pr1=bool
+          ]
+  
